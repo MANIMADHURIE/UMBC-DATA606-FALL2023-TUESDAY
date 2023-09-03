@@ -1,7 +1,6 @@
+<img src="Profile.png" alt="Profile Image" width="210" height="250" style="float: left; margin-right: 5px; border-radius: 80px; padding: 6px;">
+
 # Manimadhuri Edara
-
-# ![Profile](http://localhost:8888/view/Profile.png)
-
 📞 443-527-0420 | ✉ Medara1@umbc.edu | [LinkedIn](linkedin.com/in/manimadhuriedara) | [GitHub](github.com/MANIMADHURIE)
 
 ## EDUCATION:
