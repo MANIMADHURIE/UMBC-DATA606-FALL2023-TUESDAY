@@ -17,7 +17,7 @@
 - **Developer Tools:** Azure Databricks, Informatica, Azure Workflow, Snowflake
 
 ## EXPERIENCE:
-### Research Assistant, University of Maryland, Baltimore County, Baltimore, MD | Nov 2022 - Present
+### Research Assistant, University of Maryland, Baltimore County, Baltimore, MD | Nov 2022 - July 2023
 - Assessed Malware Trends using a Similarity Matrix, achieving 45% reduction in malware detection time.
 - Conducted regression analysis on medical insurance expenses, achieving 15% reduction in error rate.
 
