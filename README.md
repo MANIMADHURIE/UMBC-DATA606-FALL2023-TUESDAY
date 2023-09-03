@@ -1,4 +1,3 @@
-# UMBC-DATA606-FALL2023-TUESDAY
 # Manimadhuri Edara
 
 #![Profile](http://localhost:8888/view/Profile.png)
