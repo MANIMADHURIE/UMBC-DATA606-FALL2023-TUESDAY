@@ -1,6 +1,6 @@
 # Manimadhuri Edara
 
-#![Profile](http://localhost:8888/view/Profile.png)
+# ![Profile](http://localhost:8888/view/Profile.png)
 
 📞 443-527-0420 | ✉ Medara1@umbc.edu | [LinkedIn](linkedin.com/in/manimadhuriedara) | [GitHub](github.com/MANIMADHURIE)
 
